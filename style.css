@@ -1,0 +1,23 @@
+	#text{
+	margin:auto;
+		height:100px;
+		width:400px;
+	}
+	#span{
+		border:1px solid black;
+		width:100px;
+		height:25px;
+		color:white;
+		background-color:red;
+		text-align:center;
+		padding-top:10px;
+		border-radius:10px;
+	}
+	.tick{
+		color:red;
+	}
+	.fff{
+		height:450px;
+		width:450px;
+		margin:auto;
+	}
